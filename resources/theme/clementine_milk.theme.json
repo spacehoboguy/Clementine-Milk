@@ -1,0 +1,32 @@
+{
+  "name": "Clementine_milk",
+  "author": "YourCompany",
+  "dark": true,
+  "colors": {
+    "parchment": "#FAEFD4",
+    "tangerine" : "#EB8424",
+    "black": "#000000",
+    "white": "#ffffff",
+    "success": "#67c751",
+    "pending": "#5172c7",
+    "error": "#c7516d",
+    "warning": "#ffb730"
+  },
+  "ui": {
+    "*": {
+      "foreground": "tangerine",
+      "background": "parchment",
+      "tex"
+    }
+  },
+  "icons": {
+    "ColorPalette": {
+      "Actions.Blue": "#5172c7",
+      "Actions.Green": "#67c751",
+      "Actions.Red": "#c7516d",
+      "Actions.Grey": "#beb9b9",
+      "Objects.BlackText": "black"
+
+    }
+  }
+}
