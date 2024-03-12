@@ -15,8 +15,7 @@
   "ui": {
     "*": {
       "foreground": "tangerine",
-      "background": "parchment",
-      "tex"
+      "background": "parchment"
     }
   },
   "icons": {
