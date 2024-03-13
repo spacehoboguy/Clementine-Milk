@@ -14,18 +14,89 @@
     "warning": "#ffb730"
   },
   "ui": {
+
     "*": {
       "foreground": "tangerine",
-      "background": "parchment"
+      "background": "parchment",
+
+      "infoForeground": "warning",
+      "successForeground": "success",
+
+      "errorForeground": "error",
+
+      "selectionBackground": "tangerine",
+      "selectionForeground": "#FFFFFF",
+
+      "borderColor": "parchment",
+      "focusColor": "tangerine",
+      "focusedBorderColor": "tangerine",
+      "hoverBorderColor": "tangerine",
+      "pressedBorderColor": "tangerine",
+      "hoverBackgroundColor": "parchment",
+      "separatorColor": "tangerine",
+      "lineSeparatorColor": "grey"
     },
-    "Editor.background": "parchment",
-    "Editor.Toolbar.borderColor": "000000",
-    "MenuBar.selectionBackground": "red",
-    "MenuBar.highlight": "pink",
-    "Button.arc": "0",
-    "Tree.background": "red",
-    "StatusBar.topColor": "red"
+
+    "Plugins": {
+      "Tab": {
+        "selectedForeground": "success",
+        "selectedBackground": "error",
+        "hoverBackground": "pending"
+      }
+    },
+
+    "Editor" : {
+      "background": "parchment",
+      "Toolbar.borderColor": "parchment"
+    },
+
+    "EditorPane": {
+      "splitBorder": "tangerine"
+    },
+
+    "NavBar": {
+      "borderColor": "parchment"
+    },
+
+    "MenuBar": {
+      "selectionBackground": "red",
+      "highlight": "salmon",
+      "borderColor": "parchment"
+    },
+
+    "MainToolbar": {
+      "background": "green",
+      "separatorColor": "parchment"
+    },
+
+    "ToggleButton": {
+      "onForeground": "#FFFFFF",
+      "onBackground": "red",
+      "offForeground": "#FFFFFF",
+      "offBackground": "green",
+      "buttonColor":  "#FFFFFF",
+      "borderColor": "#FFFFFF"
+    },
+
+    "RunWidget" : {
+      "foreground": "#ffffff",
+      "runningBackground": "#599e5e",
+      "hoverBackground": "#8cea91",
+      "pressedBackground": "#00000028"
+    },
+
+    "ProgressBar": {
+      "trackColor": "#404040",
+      "progressColor": "#FFFFFF",
+      "indeterminateStartColor": "#FFFFFF",
+      "indeterminateEndColor": "#1a1a1a",
+      "failedColor": "error",
+      "failedEndColor": "#431C27",
+      "passedColor": "success",
+      "passedEndColor": "#15451E"
+    }
   },
+
   "icons": {
     "ColorPalette": {
       "Actions.Blue": "#5172c7",
