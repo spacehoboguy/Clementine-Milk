@@ -1,7 +1,8 @@
 {
-  "name": "Clementine_milk",
-  "author": "YourCompany",
-  "dark": true,
+  "name": "Clementine Milk",
+  "author": "spacehoboguy",
+  "dark": false,
+  "editorScheme": "catppuccin_latte_modified.xml",
   "colors": {
     "parchment": "#FAEFD4",
     "tangerine" : "#EB8424",
@@ -16,7 +17,13 @@
     "*": {
       "foreground": "tangerine",
       "background": "parchment"
-    }
+    },
+    "Editor.background": "parchment",
+    "Editor.Toolbar.borderColor": "000000",
+    "MenuBar.selectionBackground": "red",
+    "MenuBar.highlight": "pink",
+    "Button.arc": "0",
+    "Tree.background": "red"
   },
   "icons": {
     "ColorPalette": {
