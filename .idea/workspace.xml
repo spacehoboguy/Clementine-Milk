@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48258424-5c21-4e70-83e2-529d1f1ff839" name="Changes" comment="fix: removed unused style">
+    <list default="true" id="48258424-5c21-4e70-83e2-529d1f1ff839" name="Changes" comment="feat: added styles.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/theme/catppuccin_latte_modified.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/theme/catppuccin_latte_modified.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/theme/clementine_milk.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/theme/clementine_milk.theme.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -105,12 +105,28 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1710313800366</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="BREAKING CHANGE: added Color Schema based on Catppuccin Latte.">
+      <option name="closed" value="true" />
+      <created>1710326395214</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1710326395214</updated>
+    </task>
+    <task id="LOCAL−00006" summary="feat: added styles.">
+      <option name="closed" value="true" />
+      <created>1710326404937</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1710326404937</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init clementine milk jetbrains theme" />
     <MESSAGE value="fix: removed unused style" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: removed unused style" />
+    <MESSAGE value="BREAKING CHANGE: added Color Schema based on Catppuccin Latte." />
+    <MESSAGE value="feat: added styles." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: added styles." />
   </component>
 </project>

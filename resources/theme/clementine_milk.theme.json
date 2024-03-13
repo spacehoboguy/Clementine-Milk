@@ -23,16 +23,15 @@
     "MenuBar.selectionBackground": "red",
     "MenuBar.highlight": "pink",
     "Button.arc": "0",
-    "Tree.background": "red"
+    "Tree.background": "red",
+    "StatusBar.topColor": "red"
   },
   "icons": {
     "ColorPalette": {
       "Actions.Blue": "#5172c7",
       "Actions.Green": "#67c751",
       "Actions.Red": "#c7516d",
-      "Actions.Grey": "#beb9b9",
-      "Objects.BlackText": "black"
-
+      "Actions.Grey": "#beb9b9"
     }
   }
 }

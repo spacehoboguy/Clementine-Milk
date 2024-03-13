@@ -57,7 +57,7 @@
     <option name="HTML_TAG_TREE_LEVEL3" value="1e66f5" />
     <option name="HTML_TAG_TREE_LEVEL4" value="4a5e5" />
     <option name="HTML_TAG_TREE_LEVEL5" value="8839ef" />
-    <option name="INDENT_GUIDE" value="ccd0da" />
+    <option name="INDENT_GUIDE" value="fd7222" />
     <option name="INFORMATION_HINT" value="ccd0da" />
     <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="ced1da" />
     <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="cacdd7" />
@@ -72,7 +72,7 @@
     <option name="PROMOTION_PANE" value="ccd0da" />
     <option name="QUESTION_HINT" value="ccd0da" />
     <option name="RECENT_LOCATIONS_SELECTION" value="ccd0da" />
-    <option name="RIGHT_MARGIN_COLOR" value="ccd0da" />
+    <option name="RIGHT_MARGIN_COLOR" value="white" />
     <option name="SELECTED_INDENT_GUIDE" value="bcc0cc" />
     <option name="SELECTED_TEARLINE_COLOR" value="bcc0cc" />
     <option name="SELECTION_BACKGROUND" value="d4d7df" />
@@ -82,14 +82,14 @@
     <option name="ScrollBar.hoverThumbColor" value="ff7c1e" />
     <option name="ScrollBar.thumbColor" value="ffa87f" />
     <option name="TAB_UNDERLINE" value="ff7c1e" />
-    <option name="TAB_UNDERLINE_INACTIVE" value="4c4f69" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="ffa87f" />
     <option name="TEARLINE_COLOR" value="ccd0da" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="b183f1" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="e397aa" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="75b868" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="b1d8e2" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="729ef5" />
-    <option name="VISUAL_INDENT_GUIDE" value="ccd0da" />
+    <option name="VISUAL_INDENT_GUIDE" value="black" />
     <option name="WHITESPACES" value="ccd0da" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="acb0be" />
   </colors>
@@ -174,18 +174,19 @@
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="4c4f69" />
+        <option name="FOREGROUND" value="ffa87f" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
       <value>
-        <option name="FOREGROUND" value="4c4f69" />
-        <option name="BACKGROUND" value="acb0be" />
+        <option name="FOREGROUND" value="white" />
+<!--        <option name="FOREGROUND" value="4c4f69" />-->
+        <option name="BACKGROUND" value="ffa87f" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
       <value>
-        <option name="FOREGROUND" value="4c4f69" />
+        <option name="FOREGROUND" value="ffa87f" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
