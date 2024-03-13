@@ -6,20 +6,22 @@
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
-    <name>Clementine_milk</name>
+    <name>Clementine Milk</name>
     <category>UI</category>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-    <vendor email="support@yourcompany.com" url="https://www.yourcompany.com">YourCompany</vendor>
+    <vendor email="ph.olafsen@gmail.com" url="https://github.com/spacehoboguy">spacehoboguy</vendor>
 
     <idea-version since-build="231" until-build="241.*"/>
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
+    <!--suppress PluginXmlValidity -->
     <description><![CDATA[
-    Enter short description for your theme here.<br>
-    <em>most HTML tags may be used</em>
+    <h1>A simple and orange theme for IntelliJ IDEs</h1>
+    <br>
+    <em>Hope you enjoy!</em>
   ]]></description>
 
     <!-- Short summary of new features and bugfixes in the latest plugin version.
