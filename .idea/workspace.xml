@@ -83,7 +83,14 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1710247861659</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="fix: removed unused style">
+      <option name="closed" value="true" />
+      <created>1710255616265</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1710255616265</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
