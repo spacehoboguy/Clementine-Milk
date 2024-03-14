@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48258424-5c21-4e70-83e2-529d1f1ff839" name="Changes" comment="feat: added styles.">
+    <list default="true" id="48258424-5c21-4e70-83e2-529d1f1ff839" name="Changes" comment="fix: updated gitignore.">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -134,7 +134,14 @@
       <option name="presentableId" value="LOCAL−00007" />
       <updated>1710333196798</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL−00008" summary="fix: updated gitignore.">
+      <option name="closed" value="true" />
+      <created>1710421773767</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1710421773767</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -142,6 +149,7 @@
     <MESSAGE value="fix: removed unused style" />
     <MESSAGE value="BREAKING CHANGE: added Color Schema based on Catppuccin Latte." />
     <MESSAGE value="feat: added styles." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: added styles." />
+    <MESSAGE value="fix: updated gitignore." />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: updated gitignore." />
   </component>
 </project>

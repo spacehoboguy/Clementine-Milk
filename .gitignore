@@ -1,9 +1,13 @@
+
+# Directories
 out
-*.jar
-
 /.idea/
-idea
-
-.iws
+/.idea/shelf/
 /.idea/workspace.xml
+
+# Files
 **/.idea/workspace.xml **/.idea/tasks.xml
+
+# File types
+*.jar
+*.iws
