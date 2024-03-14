@@ -2,7 +2,7 @@
   "name": "Clementine Milk",
   "author": "spacehoboguy",
   "dark": false,
-  "editorScheme": "catppuccin_latte_modified.xml",
+  "editorScheme": "scheme/catppuccin_latte_modified.xml",
   "colors": {
     "parchment": "#FAEFD4",
     "tangerine" : "#EB8424",

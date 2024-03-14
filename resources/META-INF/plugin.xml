@@ -33,6 +33,6 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="clementine_milk" path="/theme/clementine_milk.theme.json"/>
+        <themeProvider id="clementine_milk" path="/clementine_milk.theme.json"/>
     </extensions>
 </idea-plugin>
