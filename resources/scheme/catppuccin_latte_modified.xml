@@ -59,24 +59,24 @@
     <option name="HTML_TAG_TREE_LEVEL5" value="8839ef" />
     <option name="INDENT_GUIDE" value="fd7222" />
     <option name="INFORMATION_HINT" value="ccd0da" />
-    <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="ced1da" />
-    <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="cacdd7" />
-    <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="cacdd7" />
+    <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="white" />
+    <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="white" />
+    <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="white" />
     <option name="LINE_NUMBERS_COLOR" value="ff951e" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="af4200" />
-    <option name="LOOKUP_COLOR" value="ccd0da" />
-    <option name="METHOD_SEPARATORS_COLOR" value="ccd0da" />
+    <option name="LOOKUP_COLOR" value="white" />
+    <option name="METHOD_SEPARATORS_COLOR" value="white" />
     <option name="MODIFIED_LINES_COLOR" value="fe640b" />
     <option name="MODIFIED_TAB_ICON" value="1e66f5" />
-    <option name="NOTIFICATION_BACKGROUND" value="e6e9ef" />
-    <option name="PROMOTION_PANE" value="ccd0da" />
-    <option name="QUESTION_HINT" value="ccd0da" />
+    <option name="NOTIFICATION_BACKGROUND" value="white" />
+    <option name="PROMOTION_PANE" value="white" />
+    <option name="QUESTION_HINT" value="white" />
     <option name="RECENT_LOCATIONS_SELECTION" value="ccd0da" />
     <option name="RIGHT_MARGIN_COLOR" value="white" />
     <option name="SELECTED_INDENT_GUIDE" value="bcc0cc" />
     <option name="SELECTED_TEARLINE_COLOR" value="bcc0cc" />
-    <option name="SELECTION_BACKGROUND" value="d4d7df" />
-    <option name="SELECTION_FOREGROUND" value="" />
+    <option name="SELECTION_BACKGROUND" value="white" />
+    <option name="SELECTION_FOREGROUND" value="black" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="ff7c1e" />
     <option name="ScrollBar.Mac.thumbColor" value="ffa87f" />
     <option name="ScrollBar.hoverThumbColor" value="ff7c1e" />

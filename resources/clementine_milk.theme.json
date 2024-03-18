@@ -34,7 +34,7 @@
       "pressedBorderColor": "tangerine",
       "hoverBackgroundColor": "parchment",
       "separatorColor": "tangerine",
-      "lineSeparatorColor": "grey"
+      "lineSeparatorColor": "tangerine"
     },
 
     "Plugins": {
@@ -46,12 +46,16 @@
     },
 
     "Editor" : {
+      "shortcutForeground": "red",
       "background": "parchment",
+      "foreground": "black",
       "Toolbar.borderColor": "parchment"
     },
 
     "EditorPane": {
-      "splitBorder": "tangerine"
+      "splitBorder": "tangerine",
+      "background": "tangerine",
+      "foreground": "black"
     },
 
     "NavBar": {
@@ -79,7 +83,9 @@
     },
 
     "RunWidget" : {
-      "foreground": "#ffffff",
+      "foreground": "black",
+      "runIconColor": "black",
+      "iconColor": "black",
       "runningBackground": "#599e5e",
       "hoverBackground": "#8cea91",
       "pressedBackground": "#00000028"
